@@ -147,6 +147,10 @@ public class Usuario {
     public void setContrasena(String Contrasena) {
         this.Contrasena = Contrasena;
     }
+
+    public void setrut(int i) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
     
     
     
